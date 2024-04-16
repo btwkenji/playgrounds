@@ -1,3 +1,3 @@
-module github.com/kenjitheman/testman
+module github.com/nezutero/testman
 
 go 1.21.2
